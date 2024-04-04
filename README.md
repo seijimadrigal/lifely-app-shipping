@@ -1,3 +1,19 @@
+# Lifely Test App as CUSTOM CHECKOUT UI Extension
+
+The source code for custom Checkout UI Extension App for Lifely Furniture.
+
+To see written source code for the app go to extensions -> shipping-app -> src
+
+
+Shopify Task Specs Sheet [followed : https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#attid%253Datt_18e786b1a9c3d491_0.1_03e4d675_5ad5cf43_1ce0f8f1_83447e28_29141d42%25252FChallenge%252520for%252520Seiji.pptx]
+Google Docs Sync Data sheet [followed : ](https://docs.google.com/spreadsheets/d/11zbHnoYegLAkKj11rDhyqp1cblkNfzLXh7Jz_3ryJbU/edit#gid=0)
+
+
+
+
+
+
+
 # Shopify App Template - None (app with extensions only)
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) that includes no app home UI. It contains the basics for building a Shopify app that uses only app extensions.
